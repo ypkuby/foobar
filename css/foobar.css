@@ -1,0 +1,13 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-size: 13px; */
+}
+
+body.light {
+    background-color: #eee;
+}
+
+body.dark {
+    background-color: #2d2d2d;
+    color: #b3b9c5;
+}
